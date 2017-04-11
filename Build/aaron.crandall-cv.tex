@@ -1,0 +1,66 @@
+\documentclass[11pt]{amsart}
+\usepackage{times}
+\usepackage{fullpage}
+\usepackage[resetlabels]{multibib}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{natbib}
+\setlength{\bibsep}{8.0pt}
+
+%\usepackage{titlesec}
+%\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+
+
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+\usepackage[pagebackref=true,breaklinks=true,letterpaper=false,colorlinks,bookmarks=false]{hyperref}
+\hypersetup{
+colorlinks=false,
+breaklinks=true,
+pdfborder={0 0 0},
+pdftitle={Vitae of Aaron S. Crandall, Ph.D.},
+pdfauthor={Aaron S. Crandall, Ph.D.}
+pdfkeywords={vitae, resume, Crandall, Ph.D., researcher}
+}
+
+% Multibib citation definitions
+\newcites{dissertation}{Dissertation}
+\bibliographystyledissertation{unsrtnat-nourl}
+\newcites{journal}{Articles in refereed scientific journals}
+\bibliographystylejournal{unsrtnat-nourl}
+\newcites{conf}{Articles in refereed scientific volumes and conference proceedings}
+\bibliographystyleconf{unsrtnat-nourl}
+\newcites{book}{Monographs and book chapters}
+\bibliographystylebook{unsrtnat-nourl}
+\newcites{other}{Other scientific publications}
+\bibliographystyleother{unsrtnat-nourl}
+
+%%  My horizontal lines to break things up tool
+\newcommand{\AOCLine}{\begin{center}
+\line(1,0){250}
+\end{center}}
+
+
+\begin{document}
+
+\input{Sections/Header}		%%** Name, rank and serial number!
+\input{Sections/Summary}        %%** Summary page material
+\newpage
+\input{Sections/Education}	%%** Education Summary
+\input{Sections/ResearchStatement}	%%** Research statement
+\input{Sections/Publications}   %%** Publications section
+\input{Sections/Support}	%%** Got me own $$$!
+\input{Sections/Patents}	%%** Making inventions because we can
+\input{Sections/Teaching}	%%** Teaching Experience
+\input{Sections/Professional}	%%** Work for $$$!
+\input{Sections/Students}       %%** My students
+\input{Sections/InvitedTalks}	%%** Dun been important!
+\input{Sections/Awards}		%%** Awards and Fellowships
+\input{Sections/DepartmentService}
+\input{Sections/CommunityDevelopment}
+\input{Sections/ProfessionalMemberships}
+\input{Sections/Reviewing}
+%\input{Sections/References}
+
+\end{document}

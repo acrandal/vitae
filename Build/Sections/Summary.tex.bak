@@ -1,0 +1,68 @@
+%%******************************************* Education *****************************************%%
+\section*{At a Glance}
+
+
+{\bf Current Role:}
+\begin{itemize}
+	\item Assistant Research Professor at Washington State University
+\end{itemize}
+
+{\bf Interests:}
+\begin{itemize}
+	\item Artificial intelligence, smart enviornments, behaviometrics, gerontechnology, user experience
+\end{itemize}
+
+{\bf \hyperref[sec:education]{Education:}}
+\begin{itemize}
+	\item Ph.D. in Computer Science, Washington State University
+	\item MSCS in Computer Science, Oregon Health and Science University
+	\item BSEE in Computer Engineering, The University of Portland
+\end{itemize}
+
+{\bf \hyperref[sec:publications]{Publishing:}}
+\begin{itemize}
+	\item Citation Metrics, Fall 2014:
+\begin{tabular}{l c || l r}
+%\hline
+h-index:  & 7 &   g-index: & 13\\
+%\hline
+\end{tabular}
+	\item Total Publications: 29
+\end{itemize}
+
+{\bf \hyperref[sec:teachingexperience]{Academic Experience:}}
+\begin{itemize}
+	\item 3 years postdoc and research professor at Washington State University
+	\item Lecturer and co-lecturer in AI, ML, Distributed Systems, Security, \& Linux Systems
+	\item \hyperref[sec:students]{Co-Advising graduate students}
+	\item Curriculum development, both undergraduate and graduate levels
+\end{itemize}
+
+{\bf \hyperref[sec:support]{Grant Writing and Fundraising Experience:}}
+\begin{itemize}
+	\item PI NIH Funding: \$1,604,828
+	\item Private Donations Fundraising: \$4,550
+	\item Submitted grants to: NIH, NSF, State programs, university, commercial \& private sources
+\end{itemize}
+
+{\bf \hyperref[sec:professionalexperience]{Industry Experience:}}
+\begin{itemize}
+	\item \hyperref[sec:professionalexperience]{5 years IT systems, 2 years software engineering, 1 year networking \& telcom}
+	\item \hyperref[sec:patents]{USPTO Patent: Recognition in Multi-Entity Environments (US 13/538,882)}
+\end{itemize}
+
+{\bf \hyperref[sec:invitedtalks]{Invited Talks:}}
+\begin{itemize}
+	\item IFA+, Alzheimer's Association, Several universities
+\end{itemize}
+
+{\bf Other Projects and Service:}
+\begin{itemize}
+	\item \hyperref[sec:communitydevelopment]{Lead Guest Editor: Journal of Artificial Intelligence and Smart Environments}
+	\item \hyperref[sec:communitydevelopment]{Committee member: Intelligence Environments, IE, ICTAI}
+	\item \hyperref[sec:reviewing]{Reviewer for scientitic journals and conferences}
+	\item \hyperref[sec:departmentservice]{Engineering captone project advisor, 4 years}
+	\item \hyperref[sec:departmentservice]{Student club advising: Computer Security Group, Amateur Radio, 5 years}
+	\item High school tutor: WASL Programming-based capstone projects, 3 years
+\end{itemize}
+
